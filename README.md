@@ -153,7 +153,7 @@ Enter news article:
 
 ## Author ✍️
 
-**Your Name**
+**Anurag Shankar Maurya**
 
 - GitHub: [@Anurag-Shankar-Maurya](https://github.com/Anurag-Shankar-Maurya)
 - Email: anuragshankarmaurya@gmail.com
